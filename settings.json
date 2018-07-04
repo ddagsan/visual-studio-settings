@@ -1,0 +1,17 @@
+{
+    "emmet.includeLanguages": {
+        "javascript": "typescriptreact"
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "explorer.confirmDelete": false,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "git.confirmSync": false,
+    "git.autofetch": false,
+    "explorer.confirmDragAndDrop": false,
+    "gitlens.advanced.messages": {
+        "suppressFileNotUnderSourceControlWarning": true,
+        "suppressShowKeyBindingsNotice": true
+    },
+    "window.zoomLevel": 0,
+    "workbench.iconTheme": "vscode-icons"
+}

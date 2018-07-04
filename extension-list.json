@@ -1,0 +1,24 @@
+{
+    "list": [
+        "aeschli.vscode-css-formatter",
+        "angular.ng-template",
+        "christian-kohler.npm-intellisense",
+        "CoenraadS.bracket-pair-colorizer",
+        "donjayamanne.githistory",
+        "eamodio.gitlens",
+        "eg2.tslint",
+        "felipecaputo.git-project-manager",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "hookyqr.beautify",
+        "infinity1207.angular2-switcher",
+        "jundat95.react-native-snippet",
+        "mikael.angular-beastcode",
+        "ms-vscode.csharp",
+        "msjsdiag.debugger-for-chrome",
+        "peterjausovec.vscode-docker",
+        "robertohuertasm.vscode-icons",
+        "sanderledegen.angular-follow-selector",
+        "shaharkazaz.git-merger"
+    ]
+}
