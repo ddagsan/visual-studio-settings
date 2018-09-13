@@ -23,6 +23,8 @@
         "mikael.angular-beastcode",
         "peterjausovec.vscode-docker",
         "robertohuertasm.vscode-icons",
-        "sanderledegen.angular-follow-selector"
+        "sanderledegen.angular-follow-selector",
+        "msjsdiag.debugger-for-chrome",
+        "eg2.tslint"
     ]
 }
