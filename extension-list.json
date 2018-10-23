@@ -25,6 +25,7 @@
         "robertohuertasm.vscode-icons",
         "sanderledegen.angular-follow-selector",
         "msjsdiag.debugger-for-chrome",
-        "eg2.tslint"
+        "eg2.tslint",
+        "angular.ng-template"
     ]
 }
