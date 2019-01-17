@@ -1,0 +1,17 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    { "key": "ctrl+shift+w",          "command": "workbench.action.closeAllEditors" },
+    { "key": "ctrl+shift+s",          "command": "workbench.action.files.saveAll" },
+    {
+        "key": "ctrl+m ctrl+g",
+        "command": "extension.switchTemplate"
+    },
+    {
+        "key": "ctrl+shift+d",
+        "command": "-workbench.view.debug"
+    },
+    {
+        "key": "ctrl+shift+d",
+        "command": "editor.action.addSelectionToPreviousFindMatch"
+    }
+]

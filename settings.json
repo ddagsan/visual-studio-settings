@@ -1,7 +1,4 @@
 {
-    "emmet.includeLanguages": {
-        "javascript": "typescriptreact"
-    },
     "emmet.triggerExpansionOnTab": true,
     "explorer.confirmDelete": false,
     "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
@@ -13,5 +10,14 @@
         "suppressShowKeyBindingsNotice": true
     },
     "window.zoomLevel": 0,
-    "workbench.iconTheme": "vscode-icons"
+    "workbench.iconTheme": "material-icon-theme",
+    "window.title": "${dirty}${separator}${rootName}${separator}${appName}",
+    "vsicons.presets.foldersAllDefaultIcon": true,
+    "vsicons.projectDetection.autoReload": true,
+    "material-icon-theme.folders.color": "#26a69a",
+    "material-icon-theme.activeIconPack": "angular_ngrx",
+    "prettier.singleQuote": true,
+    "breadcrumbs.enabled": true,
+    "search.location": "sidebar",
+    "gitlens.views.repositories.files.layout": "list"
 }
