@@ -25,7 +25,6 @@
         "sanderledegen.angular-follow-selector",
         "msjsdiag.debugger-for-chrome",
         "eg2.tslint",
-        "angular.ng-template",
-        "sanderledegen.angular-follow-selector"
+        "angular.ng-template"
     ]
 }
