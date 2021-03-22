@@ -25,6 +25,7 @@
         "sanderledegen.angular-follow-selector",
         "msjsdiag.debugger-for-chrome",
         "eg2.tslint",
-        "angular.ng-template"
+        "angular.ng-template",
+        "pkief.material-icon-theme"
     ]
 }
